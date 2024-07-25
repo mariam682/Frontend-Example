@@ -1,0 +1,36 @@
+body{
+    background-color: #e2b7c9;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    max-width:40%;
+}
+.pg-red{
+    
+    padding: 10px;
+    text-align: right;
+
+}
+.head-sec{
+    max-height: 200px;
+    margin-left: 180px;
+    margin-top: 10PX ;
+}
+.head-sec img{
+    max-height: 40px;
+    margin-left: 160px;
+}
+.pg-gray{
+    background-color: #DDDDDD;
+    padding: 10px;
+    margin-top: 40px;
+}
+
+.container-lvl-2 .main-img{
+    
+    border-radius: 10%;
+    display: block;
+  margin-top: -130px;
+
+}
